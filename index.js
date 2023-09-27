@@ -1,6 +1,3 @@
-// # reacttodo.github.io
-// It will store the record of all the things you have to do in a day,
-
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
